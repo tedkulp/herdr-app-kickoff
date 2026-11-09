@@ -1,0 +1,6 @@
+{
+  "version": "0.1.0",
+  "title": "Kickoff",
+  "place": "none",
+  "overlay": { "kind": "dialog", "width": 760, "height": 680 }
+}

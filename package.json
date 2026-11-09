@@ -1,0 +1,10 @@
+{
+  "name": "herdr-app-kickoff",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "check": "node --check mods/herdr-kickoff/main.js && node --test && herdr-app check mods/herdr-kickoff"
+  }
+}
