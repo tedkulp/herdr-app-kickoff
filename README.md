@@ -1,6 +1,6 @@
 # Kickoff for herdr-app
 
-A native herdr-app dialog for opening a local folder as a new space with a chosen agent. This is a separate project from the Rust herdr-kickoff plugin.
+A native herdr-app dialog for opening a local folder as a new space with a chosen agent. This is a separate project from the Rust [herdr-kickoff](https://github.com/tedkulp/herdr-kickoff) plugin.
 
 ## Develop
 
