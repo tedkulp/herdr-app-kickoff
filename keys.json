@@ -1,0 +1,5 @@
+{
+  "global": {
+    "ctrl-shift-n": "mod.open:herdr-kickoff"
+  }
+}

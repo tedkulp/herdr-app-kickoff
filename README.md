@@ -2,6 +2,8 @@
 
 A keyboard-first herdr-app dialog that opens a folder as a new space, with your chosen agent, on the branch or worktree you want.
 
+![Kickoff showing zoxide directory matches, agent choices, and branch and worktree controls](preview.png)
+
 This is a native herdr-app mod. It is a separate project from the Rust [herdr-kickoff](https://github.com/tedkulp/herdr-kickoff) plugin.
 
 - **Pick a folder fast**: filter your zoxide history, type a path, or use the native folder picker.
@@ -82,3 +84,9 @@ The Git tests in `scripts/` run against real temporary repositories, never your 
 ## License
 
 [MIT](LICENSE)
+
+## Gallery
+
+[RECIPE.md](RECIPE.md) describes how to rebuild the mod. The root folder includes `preview.png`, the `mods/herdr-kickoff/` sources, and a [keys.json snippet](keys.json). Merge that snippet into your existing keys; it replaces the default Ctrl+Shift+N binding.
+
+The [Herdr gallery](https://herdr.dev/gallery/) discovers public GitHub repositories with the `herdr-mod` topic. Gallery updates can take an hour, and community images are screened before appearing.
